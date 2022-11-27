@@ -123,7 +123,7 @@ dns:
 
 
 proxies:
-  - {name: webtest, server: 67.230.175.92, port: 29539, type: trojan, password: !<str> 16667, sni: hanhan.kayii.cn, skip-cert-verify: false, network: ws, ws-opts: {path: /DFE4545DFDED/, headers: {Host: hanhan.kayii.cn}}}
+  - {name: webtest, server: 67.230.175.92, port: 57701, type: trojan, password: !<str> 16667, sni: hanhan.kayii.cn, skip-cert-verify: false, network: ws, ws-opts: {path: /DFE4545DFDED/, headers: {Host: hanhan.kayii.cn}}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
