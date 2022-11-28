@@ -125,7 +125,7 @@ dns:
 proxies:
   - name: "safe-trojan"
     type: trojan
-    server: 34.125.196.35
+    server:34.125.149.214
     port: 4444
     password: "11111"
     udp: true
