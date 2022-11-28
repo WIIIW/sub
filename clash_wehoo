@@ -1027,8 +1027,8 @@ rules:
  - DOMAIN-SUFFIX,a.shuoshuodaquan.net,🛑 全球拦截
  - DOMAIN-SUFFIX,a.solarmovie.is,🛑 全球拦截
  - DOMAIN-SUFFIX,a.soonyou123.com,🛑 全球拦截
- - DOMAIN-SUFFIX,a.starstar19999.com,🛑 全球拦截
- - DOMAIN-SUFFIX,a.startui19999.com,🛑 全球拦截
+ - DOMAIN-SUFFIX,a.starstarlocal.com,🛑 全球拦截
+ - DOMAIN-SUFFIX,a.startuilocal.com,🛑 全球拦截
  - DOMAIN-SUFFIX,a.thefreethoughtproject.com,🛑 全球拦截
  - DOMAIN-SUFFIX,a.tribalfusion.com,🛑 全球拦截
  - DOMAIN-SUFFIX,a.tujidao.com,🛑 全球拦截
@@ -7318,7 +7318,7 @@ rules:
  - DOMAIN-SUFFIX,tuiguang.yicha.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,tuijian.baidu.com,🛑 全球拦截
  - DOMAIN-SUFFIX,tuisong.baidu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,tuituigui19999.com,🛑 全球拦截
+ - DOMAIN-SUFFIX,tuituiguilocal.com,🛑 全球拦截
  - DOMAIN-SUFFIX,tujidao.com,🛑 全球拦截
  - DOMAIN-SUFFIX,tukeai.com,🛑 全球拦截
  - DOMAIN-SUFFIX,tukexiu.com,🛑 全球拦截
