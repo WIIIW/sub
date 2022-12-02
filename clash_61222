@@ -9883,6 +9883,7 @@ rules:
  - DOMAIN-SUFFIX,reabble.com,🔰 节点选择
  - DOMAIN-SUFFIX,readingtimes.com.tw,🔰 节点选择
  - DOMAIN-SUFFIX,readmoo.com,🔰 节点选择
+ - DOMAIN-SUFFIX,linkedin.com,🔰 节点选择
  - DOMAIN-SUFFIX,redbubble.com,🔰 节点选择
  - DOMAIN-SUFFIX,resilio.com,🔰 节点选择
  - DOMAIN-SUFFIX,reuters.com,🔰 节点选择

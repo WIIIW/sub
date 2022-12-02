@@ -9993,6 +9993,7 @@ rules:
  - DOMAIN-SUFFIX,chromeexperiments.com,🔰 节点选择
  - DOMAIN-SUFFIX,chromestatus.com,🔰 节点选择
  - DOMAIN-SUFFIX,chromium.org,🔰 节点选择
+ - DOMAIN-SUFFIX,linkedin.com,🔰 节点选择
  - DOMAIN-SUFFIX,creativelab5.com,🔰 节点选择
  - DOMAIN-SUFFIX,debug.com,🔰 节点选择
  - DOMAIN-SUFFIX,deepmind.com,🔰 节点选择
