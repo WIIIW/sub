@@ -138,7 +138,7 @@ proxies:
   - name: "trojan"
     type: trojan
     server: xxaah.kayii.cn
-    port: 24159
+    port: 11743
     password: "11111"
     udp: true
     sni: coconut.kayii.cn # 服务名称
