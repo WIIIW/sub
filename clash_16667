@@ -138,7 +138,7 @@ proxies:
   - name: "trojan"
     type: trojan
     server: xxaah.kayii.cn
-    port: 12062
+    port: 59298
     password: "16667"
     udp: true
     sni: coconut.kayii.cn # 服务名称
@@ -848,7 +848,7 @@ rules:
  - DOMAIN-SUFFIX,6615338.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,6666349.com,🛑 全球拦截
  - DOMAIN-SUFFIX,6669667.com,🛑 全球拦截
- - DOMAIN-SUFFIX,661206249.com,🛑 全球拦截
+ - DOMAIN-SUFFIX,665929849.com,🛑 全球拦截
  - DOMAIN-SUFFIX,66san.com,🛑 全球拦截
  - DOMAIN-SUFFIX,6711.com,🛑 全球拦截
  - DOMAIN-SUFFIX,6728812.com,🛑 全球拦截
